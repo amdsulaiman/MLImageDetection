@@ -17,10 +17,10 @@
 
 # Installation
 Download  the following ML Model and place under CoreML Model
-- 1.GoogLeNetPlaces.mlmodel
-- 2.Resnet50.mlmodel
-- 3.SqueezeNet.mlmodel
-- 4.YOLOv3.mlmodel
+- GoogLeNetPlaces.mlmodel
+- Resnet50.mlmodel
+- SqueezeNet.mlmodel
+- YOLOv3.mlmodel
 
 Download the code
 Install Cocaopods and run
