@@ -1,0 +1,16 @@
+PODS:
+  - AKImageCropperView (2.0.0)
+
+DEPENDENCIES:
+  - AKImageCropperView
+
+SPEC REPOS:
+  trunk:
+    - AKImageCropperView
+
+SPEC CHECKSUMS:
+  AKImageCropperView: 9c80fd45512daa69426161ad51c248655c1b5182
+
+PODFILE CHECKSUM: c7e52e089dbc4b77e0948993130caa901cab3469
+
+COCOAPODS: 1.10.1
